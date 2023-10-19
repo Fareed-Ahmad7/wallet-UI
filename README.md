@@ -1,5 +1,5 @@
 # Build APP
-1. Clone the repo `gh repo clone Fareed-Ahmad7/Ginee-Ride`
+1. Clone the repo `gh repo clone Fareed-Ahmad7/wallet-UI`
 2. Install dependencies `flutter pub get`
 3. Run app `flutter run`
 
