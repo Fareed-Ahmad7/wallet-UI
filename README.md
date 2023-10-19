@@ -4,4 +4,4 @@
 3. Run app `flutter run`
 
 
-<img src="https://github.com/Fareed-Ahmad7/wallet-UI/assets/90202062/2be0f520-ce96-4fc8-87d7-c172422278c0" width=30% height=30%>
+<img src="https://github.com/Fareed-Ahmad7/wallet-UI/assets/90202062/257e33ca-6418-4d3c-875b-b11abc10b652" width=30% height=30%>
