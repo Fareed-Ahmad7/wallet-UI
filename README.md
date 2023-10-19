@@ -1,16 +1,7 @@
-# sensegrass
+# Build APP
+1. Clone the repo `gh repo clone Fareed-Ahmad7/Ginee-Ride`
+2. Install dependencies `flutter pub get`
+3. Run app `flutter run`
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/Fareed-Ahmad7/wallet-UI/assets/90202062/2be0f520-ce96-4fc8-87d7-c172422278c0" width=30% height=30%>
